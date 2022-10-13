@@ -1,7 +1,7 @@
-#include <stdin.h>
+#include <stdio.h>
 
 /**
- * main: first program in C language
+ * main - first program in C language
  *
  * Description: This script prints everything properly
  * Return: This function return the value of 0 to show sucess
