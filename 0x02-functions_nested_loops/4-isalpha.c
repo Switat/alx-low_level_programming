@@ -3,7 +3,7 @@
 /**
  * _isalpha - check alphabetic character.
  *
- * Description: is c an integer argument
+ * @c: is c an integer argument
  *
  * Return: Always 0.
  */
