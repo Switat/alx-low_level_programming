@@ -3,7 +3,7 @@
 /**
 * main - Print the alphabet in lowercase letters in reverse order
 *
-Return: 0
+* Return: 0
 */
 int main(void)
 {
